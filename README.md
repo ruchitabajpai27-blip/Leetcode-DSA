@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
