@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -39,8 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
