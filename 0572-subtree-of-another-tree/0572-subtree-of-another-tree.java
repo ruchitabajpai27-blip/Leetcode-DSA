@@ -11,13 +11,14 @@ public String preOrder(TreeNode node)
    {
     if (node == null) 
     {
-        return "#";
+        return "null";
     }
-
-    return "," + node.val
-            + preOrder(node.left)
-            + preOrder(node.right);
-    }
+    StringBuilder sb=new StringBuilder("^");
+    sb.append(node.val);
+    sb.append(preOrder(node.left));
+    sb.append(preOrder(node.right));
+return sb.toString();
+}
 
 
 }
