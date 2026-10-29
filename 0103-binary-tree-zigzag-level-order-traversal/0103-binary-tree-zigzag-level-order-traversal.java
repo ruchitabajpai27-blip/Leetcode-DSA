@@ -19,11 +19,17 @@ List<List<Integer>> result = new ArrayList<>();
 
         int size = q.size();
         List<Integer> level = new ArrayList<>();
+        Stack<Integer>stack=new Stack<>();
 
         for (int i = 0; i < size; i++) 
         {
             TreeNode node = q.poll();
+            if(leftToRight)
             level.add(node.val);
+            else
+            {
+                stack.push((node.val));
+            }
 
             if (node.left != null) 
             {
@@ -36,9 +42,9 @@ List<List<Integer>> result = new ArrayList<>();
             }
         }
 
-        if (!leftToRight) 
+        while(!stack.isEmpty()) 
         {
-            Collections.reverse(level);
+            level.add(stack.pop());
         }
 
         result.add(level);
@@ -47,6 +53,4 @@ List<List<Integer>> result = new ArrayList<>();
 
     return result;
 }
-
-
 }
