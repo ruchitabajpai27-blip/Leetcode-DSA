@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0112-path-sum) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0112-path-sum) |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
