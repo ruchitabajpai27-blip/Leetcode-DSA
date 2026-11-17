@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -169,4 +173,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
