@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Monotonic Stack
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ruchitabajpai27-blip/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
